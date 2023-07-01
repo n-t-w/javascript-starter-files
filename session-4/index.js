@@ -50,6 +50,13 @@ const xtimesydividedbyx = x * y / x;
 
 console.log("x * y / x = " + xtimesydividedbyx);
 
+const driverAge = 20;
+const legalDrivingAge = 18;
+
+const amILegalToDrive = driverAge>legalDrivingAge;
+
+console.log("Have your reached the legal driving age? " + amILegalToDrive);
+
 
 
 
